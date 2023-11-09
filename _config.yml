@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: little.devil.happy@gmail.com
 description: "Every failure is leading towards success."
 keyword: ""
-url: "http://LittleDevilBig.github.io"          # your host, for absolute URL
+url: "http://LittleDevilBig.github.io/about/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LittleDevilBig/LittleDevilBig.github.io.git" # you code repository
 
